@@ -26,8 +26,6 @@ Add additional notes about how to deploy this on a production system.
 
 Add links to external resources for this project, such as CI server, bug tracker, etc.
 
-
-
 ## 算法
 
 ### 什么是算法
@@ -35,7 +33,6 @@ Add links to external resources for this project, such as CI server, bug tracker
 - 有具体的问题
 - 有设计解决这个问题的具体流程
 - 有评价处理流程的可量化指标
-
 
 ### 算法的分类
 
@@ -58,3 +55,9 @@ Add links to external resources for this project, such as CI server, bug tracker
   - 便于寻址，不便于增删数据
 - 链表
   - 便于增删数据，不便于寻址
+
+### Math.random()函数
+
+`Math.random() 函数的返回值是  [0,1) 的随机数， 并且每个数出现的概率相同`
+
+- 0 ~ a 区间的所有数 出现的概率和在  [0, 1) 为  a,  `例： 0~0.3 的概率为0。3` ， 那么0~ a平方出现的概率为 0~a平方
