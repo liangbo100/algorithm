@@ -25,13 +25,33 @@ public class B02随机数 {
     }
 
 
-    public static double x_to_x_power2(){
+    public static double xToXPower2(){
         return Math.max(Math.random(), Math.random());
+    }
+
+    public static void probability_power2(){
+        int count = 0;
+
+        double x = 0.17;
+        int testTimes = 10000000;
+        for (int i = 0; i < testTimes; i++) {
+            if (xToXPower2() < x) {
+                count++;
+            }
+        }
+        System.out.println((double) count / (double) testTimes);
+        System.out.println((double) 1 - Math.pow((double) 1 - x, 2));
+
+
     }
 
 
     public static void main(String[] args) {
-        //TODO
+
         System.out.println(probability(4));
+
+
+        System.out.println("============================");
+        probability_power2();
     }
 }
