@@ -84,7 +84,6 @@ public class A04对数器 {
         }
         for (int i = 0; i < arr1.length; i++) {
             if (arr1[i] != arr2[i]) {
-
                 return false;
             }
         }

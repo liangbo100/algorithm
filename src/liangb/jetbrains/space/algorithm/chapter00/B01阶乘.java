@@ -6,7 +6,7 @@ public class B01阶乘 {
     /**
      * 求 阶乘相加 ：  1! + 2! + 3! + ... + n!
      * @param n 阶乘
-     * @return
+     * @return 阶乘和
      */
     public static long factorial(long n){
 
