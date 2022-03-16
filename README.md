@@ -71,3 +71,6 @@ Add links to external resources for this project, such as CI server, bug tracker
 5. 把方法a和方法b比对多次来验证方法a是否正确
 6. 如果有一个样本使得比对出错，打印样本分析是哪个方法出错
 7. 当样本数量很多时比对测试依然正确，可以确定方法a已经正确
+
+
+### 二分查找
