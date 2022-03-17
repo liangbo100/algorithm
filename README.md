@@ -73,4 +73,9 @@ Add links to external resources for this project, such as CI server, bug tracker
 7. 当样本数量很多时比对测试依然正确，可以确定方法a已经正确
 
 
-### 二分查找
+### 时间复杂度
+
+**常数操作**  ： 与数据量无关， 固定时间量的操作。
+
+
+### 动态数组
