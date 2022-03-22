@@ -59,7 +59,7 @@ public class A05二分查找_次方根 {
      * 求次幂
      * @param a 底数
      * @param n  幂数
-     * @return
+     * @return 指数值
      */
     public static int pow(int a ,int n){
         int result = 1;
