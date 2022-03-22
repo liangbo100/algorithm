@@ -5,11 +5,10 @@ import java.util.Scanner;
 public class A04二分查找_分巧克力 {
 
 
-
-    /*
-
+    /**
+     *
+     * @param args
      */
-
     public static void main(String[] args) {
 
         test2();
