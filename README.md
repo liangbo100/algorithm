@@ -72,10 +72,13 @@ Add links to external resources for this project, such as CI server, bug tracker
 6. 如果有一个样本使得比对出错，打印样本分析是哪个方法出错
 7. 当样本数量很多时比对测试依然正确，可以确定方法a已经正确
 
-
 ### 时间复杂度
 
 **常数操作**  ： 与数据量无关， 固定时间量的操作。
 
-
 ### 动态数组
+
+
+
+
+### 快慢指针
