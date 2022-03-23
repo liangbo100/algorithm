@@ -78,7 +78,4 @@ Add links to external resources for this project, such as CI server, bug tracker
 
 ### 动态数组
 
-
-
-
 ### 快慢指针
