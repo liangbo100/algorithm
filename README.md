@@ -79,3 +79,10 @@ Add links to external resources for this project, such as CI server, bug tracker
 ### 动态数组
 
 ### 快慢指针
+
+
+### 递归
+
+1. 一个问题可以分解为几个子问题的解
+2. 这个问题与分解之后的子问题，除了数据规模不同， 求解思路完全一样
+3. 存在基线/终止条件
