@@ -33,6 +33,5 @@ public class B04数组_合并两个数组 {
                 nums1[k--] = nums1[i--];
             }
         }
-
     }
 }
